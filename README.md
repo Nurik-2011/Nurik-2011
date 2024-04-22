@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Nurik-2011
-- 👀 I’m interested in basketball and volleyball
-- 🌱 I’m currently learning python, python Django
-- 📫 How to reach me e-mail beknazarnuraly@gmail.com 
-
+- 👋 Hi, I’m @Nurik-2011. My name is Beknazar Nuraly
+- 👀 I’m interested in programming, basketball and volleyball
+- 🌱 I’m currently learning python, python Django and trying my best at algorithms
+- 📫 How to reach me: e-mail beknazarnuraly@gmail.com 
